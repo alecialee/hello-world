@@ -5,4 +5,4 @@ My quick practice and reintroduction of GitHub working through [GitHub's Hello W
 I work in the tech industry and am improving my GitHub skills.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Mr_robot_photo.jpg" alt="Mr. Robot" width="200"/>
-_I'm a big fan of Mr. Robot_
+I'm a big fan of Mr. Robot.
