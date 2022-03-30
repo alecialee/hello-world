@@ -4,4 +4,5 @@ My quick practice and reintroduction of GitHub working through [GitHub's Hello W
 
 I work in the tech industry and am improving my GitHub skills.
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/3/35/Mr_robot_photo.jpg)
+[//]: <> ![alt text](https://upload.wikimedia.org/wikipedia/commons/3/35/Mr_robot_photo.jpg "Mr. Robot")
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Mr_robot_photo.jpg" alt="Mr. Robot" width="200"/>
